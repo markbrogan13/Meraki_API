@@ -1,0 +1,37 @@
+[
+    {
+        "startTs": "2023-05-03T20:21:00Z",
+        "endTs": "2023-05-03T20:22:00Z",
+        "lossPercent": null,
+        "latencyMs": null,
+        "jitter": null
+    },
+    {
+        "startTs": "2023-05-03T20:22:00Z",
+        "endTs": "2023-05-03T20:23:00Z",
+        "lossPercent": 0,
+        "latencyMs": 13.41,
+        "jitter": 1.96
+    },
+    {
+        "startTs": "2023-05-03T20:23:00Z",
+        "endTs": "2023-05-03T20:24:00Z",
+        "lossPercent": 0,
+        "latencyMs": 13.61,
+        "jitter": 3.15
+    },
+    {
+        "startTs": "2023-05-03T20:24:00Z",
+        "endTs": "2023-05-03T20:25:00Z",
+        "lossPercent": 0,
+        "latencyMs": 12.07,
+        "jitter": 2.85
+    },
+    {
+        "startTs": "2023-05-03T20:25:00Z",
+        "endTs": "2023-05-03T20:26:00Z",
+        "lossPercent": 0,
+        "latencyMs": 13.8,
+        "jitter": 2.19
+    }
+]

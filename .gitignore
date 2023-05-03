@@ -1,3 +1,5 @@
 settings.json
 settings_old.json
 meraki_api__log*
+dasboard_reports.json
+add_routes.py
